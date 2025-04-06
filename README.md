@@ -23,7 +23,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Python utilizando
 Para clonar este repositorio, ejecuta el siguiente comando en tu terminal:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+[git clone https://github.com/Fishertdevs/Crud_mysql.git ]
 ```
 
 ---
